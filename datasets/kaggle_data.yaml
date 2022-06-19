@@ -1,0 +1,5 @@
+train: /kaggle/input/annotated-anime-faces-dataset/train/images
+val: /kaggle/input/annotated-anime-faces-dataset/valid/images
+
+nc: 1
+names: ['face']
