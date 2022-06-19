@@ -1,5 +1,4 @@
-
-*.jpg
-*.txt
-datasets/
-labelImg/
+**/datasets/test
+**/datasets/train
+**/datasets/valid
+**/labelImg
