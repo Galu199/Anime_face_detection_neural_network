@@ -1,4 +1,5 @@
-**/datasets/test
-**/datasets/train
-**/datasets/valid
-**/labelImg
+
+datasets/test
+datasets/train
+datasets/valid
+labelImg
